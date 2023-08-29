@@ -1,4 +1,4 @@
-<img width="1041" alt="Screen Shot 2023-08-29 at 4 17 27 PM" src="https://github.com/natzhu03/microplastic-detection/assets/87896011/423fc15b-7618-4a38-87e7-e56044f16b43"># Microplastic Detection
+# Microplastic Detection
 
 <img width="1041" alt="Screen Shot 2023-08-29 at 4 17 27 PM" src="https://github.com/natzhu03/microplastic-detection/assets/87896011/70b564be-5502-41b9-9bb1-0aadcf8d4136">
 
